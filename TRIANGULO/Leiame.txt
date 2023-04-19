@@ -1,0 +1,6 @@
+Compilado com COBOL45.ZIP.
+
+Colocar no diretorio SOURCE
+Executar SETCOBOL.BAT
+Compilar COBOL TRIANGUV1.CBL
+Gerar executavel LINK TRIANGUV1.OBJ

@@ -1,0 +1,7 @@
+       IDENTIFICATION DIVISION.
+		   PROGRAM-ID. ALOMUNDO.
+	   ENVIRONMENT DIVISION.
+	   DATA DIVISION.
+       PROCEDURE DIVISION.          
+           DISPLAY "Alo, Mundo!!".
+	    STOP RUN.
